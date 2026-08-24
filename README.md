@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0136-single-number) |
 | [1260-shift-2d-grid](https://github.com/satyamjha2006-byte/Leetcode/tree/master/1260-shift-2d-grid) |
 ## Matrix
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/satyamjha2006-byte/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
