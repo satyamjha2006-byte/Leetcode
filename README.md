@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/satyamjha2006-byte/Leetcode/tree/master/1260-shift-2d-grid) |
 | [3978-unique-middle-element](https://github.com/satyamjha2006-byte/Leetcode/tree/master/3978-unique-middle-element) |
 ## Matrix
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3978-unique-middle-element](https://github.com/satyamjha2006-byte/Leetcode/tree/master/3978-unique-middle-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
