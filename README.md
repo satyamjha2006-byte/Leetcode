@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/satyamjha2006-byte/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamjha2006-byte/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamjha2006-byte/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/satyamjha2006-byte/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamjha2006-byte/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
