@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/satyamjha2006-byte/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0344-reverse-string) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamjha2006-byte/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
