@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamjha2006-byte/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
@@ -87,15 +88,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
