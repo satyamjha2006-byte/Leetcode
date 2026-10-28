@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -96,4 +97,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/satyamjha2006-byte/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
